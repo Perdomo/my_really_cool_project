@@ -1,3 +1,3 @@
-This is project is seroiusly awesome, you guys.
+This is project is totally awesome, you guys.
 
-This project will help Treeehouse students learn about working with Git repositories
+This project will help Treeehouse students learn about working with Git repositoriy
